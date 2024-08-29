@@ -42,7 +42,7 @@ body{font: 500 17px/1.5 'Quicksand', sans-serif; color: #402F00;
 .bannerSection .bannerContent em{font-style: normal; color: #FFCB40;}
 .bannerSection .bannerContent h2{ color: white; font: normal 60px/1.3 'Domine', serif; margin-bottom: 20px; word-spacing: 10.4px;}
 .bannerSection .bannerContent strong{color: white; font-size: 21px; display: block; margin-bottom: 43px; word-spacing: 1.4px;}
-.bannerSection .banner1{background: url("../assets/images/bannerbg.jpg") center bottom no-repeat;}
+.bannerSection .banner1{background: url("../assets/images/bannerbg.webp") center bottom no-repeat;}
 
 .btn-action{ background: #735CF7; color: white; font-family: 'Roboto', sans-serif; font-size: 15px; padding: 16px 29px; display: inline-block; font-family: 'Roboto', sans-serif; border-radius: 4px; word-spacing: 5px;     letter-spacing: 0.6px; text-transform: uppercase;  transition: all 0.5s ease;}
 .btn-action:hover{ background-color: #FFCB40;}
